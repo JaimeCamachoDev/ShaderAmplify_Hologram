@@ -1,35 +1,15 @@
 <header>
 
-![Sin título-2](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# Titulo
+![VFX_2025-01-27_044](https://github.com/user-attachments/assets/b4a42e2c-619c-4028-a9fb-e5ede18dd9cf)
 
-_Descripción_
+# Shader Amplify Hologram
+
+Shader Amplify for Unity 6 URP Hologram
 
 </header>
 
-## Subtitulo
+## Requirement
+Need Amplyfy Shader Graph
+https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570?srsltid=AfmBOoqLnQxxvgbsJQk4dV0b8UcRYA65j_4sRpUeLCxRgOMANAss9Cgk
 
-Descripción :tada: :keyboard: 
-
-Asi se hacen hypervinculos [repository](https://github.com/JaimeCamachoDev/Template?tab=readme-ov-file#titulo).
-
-### Encabezado
-
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-</footer>
