@@ -5,7 +5,7 @@
 
 # Shader Amplify Hologram
 
-Shader Amplify for Unity 6 URP Hologram
+Shader Amplify in Unity 6 URP, Hologram
 
 </header>
 
